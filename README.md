@@ -20,6 +20,11 @@ To build a system that can accurately detect fraud while handling the challenge 
 
 ---
 
+## 🔗 Dataset Link
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+---
+
 ## ⚙️ Technologies Used
 - Python  
 - Pandas  
